@@ -1,13 +1,9 @@
 ### About me
 
-👋 Hi. I'm an Engineering Manager working at [@StashInvest](http://github.com/StashInvest). Previously, I've worked at Yell, [@eBay](https://github.com/ebay), Marks and Spencer and [@Alfresco](https://github.com/Alfresco).
+👋 Hi. I'm an Engineering Leader working at [Wireless Logic](https://www.wirelesslogic.com). Previously, I've worked at [@StashInvest](http://github.com/StashInvest), [@Alfresco](https://github.com/Alfresco), Marks and Spencer, [@eBay](https://github.com/ebay) and Yell.
 
-🛠 I've worked with Java, Scala, Objective-C, Swift, Javascript, CSS, and most recently started to learn Ruby, Kotlin and Typescript
+🛠 I've worked with Go, Kotin, Java, Scala, Objective-C, Swift, Javascript, CSS.
 
-💬 I'm co-owner of the [Engineering Managers Slack Group](https://engmanagers.github.com)
+I'm co-owner of the [Engineering Managers Slack Group](https://engmanagers.github.com)
 
-📢 I co-host the [Lead Dev London Meet-up](https://www.meetup.com/LeadDev-Meetup-London/)
-
-📬 Aside from Github, I'm [@stevebennett on Twitter](https://twitter.com/stevebennett) or you can find me on [LinkedIn](https://www.linkedin.com/in/stebennett/)
-
-📝 I write sporadically on my own site at [stevebennett.co](https://stevebennett.co), where you can find more contact details
+📬 You can find me on [LinkedIn](https://www.linkedin.com/in/stebennett/) or my own site at [stevebennett.co](https://stevebennett.co)
